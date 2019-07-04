@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A1FA86F-FBAE-4891-AC8F-6C33CA34B3A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "049DE923-9183-4140-9115-36608BB75676",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BAB8129D-859E-4C21-86C0-4C2269F4C829",
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Toolbar contents 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FE6BD48-D6B8-432E-9FC3-29FD9527A16D",
+      "overrideName": "F4FE055E-7E5C-4B46-9287-880E8B84EC46_symbolID",
+      "value": "DEB7E812-7CA0-4758-8BC1-68F89FE2F03C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52DB8972-14C3-459A-9921-93FE3DE34403",
+      "overrideName": "77073F09-0DE0-491F-9BD4-333E80FF0DD0_stringValue",
+      "value": "Taschenrechner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9402B32-0871-4C89-8D26-2F4EFC83DC86",
+      "overrideName": "50220EEA-1344-4387-A9F9-668FB200F273_symbolID",
+      "value": "DEB7E812-7CA0-4758-8BC1-68F89FE2F03C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "393B4022-F5E0-4042-BE08-314D24F9167D",
+      "overrideName": "A3F9EB36-A27A-424A-9258-AA194F150557_stringValue",
+      "value": "Taschenrechner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DB28723-3C92-4057-A1B2-6BD24759FEAE",
+      "overrideName": "EBA86FB6-2C52-448A-88DC-AB8EEA1E7532_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0412C632-84B3-4290-8245-8106CD8BD7E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E94010B3-69E0-4707-BACF-A20AD112D7FD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

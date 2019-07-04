@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4068C9C-8C1C-45DD-A4A3-BCCDD305F2BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A6D7B77-DB0A-4BB7-AD26-11680D1C5BE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D3AF8867-F6B7-4992-A9C8-7F6FBD2AF6E4",
+    "height": 56,
+    "width": 328,
+    "x": 32,
+    "y": 405
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "19B07F48-7FA9-42E2-B945-9433EC74CAC9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2773651B-FA04-460A-A53B-15F2E8CD96E7"
+    },
+    {
+      "class": "group",
+      "id": "C616B155-12BD-430F-A579-ADFFAF18F0A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9518950-4694-41E8-8814-1DAE8BA89947"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A599F77-F1C5-440F-9D05-258795B84601"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BC23915-3D03-4EC9-A49F-8C1151C7412C"
+    }
+  ],
+  "name": "Text Field / Filled / Trailing Icon / Focused",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7752B513-BF41-4EBA-85C4-45B8A65C4636",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

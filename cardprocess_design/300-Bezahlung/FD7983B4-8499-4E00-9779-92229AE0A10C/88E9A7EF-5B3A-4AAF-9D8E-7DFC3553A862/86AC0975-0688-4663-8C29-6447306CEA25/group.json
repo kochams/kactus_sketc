@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86AC0975-0688-4663-8C29-6447306CEA25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E04586E-4DBD-4E60-B9B0-104DDADBFC1B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3D3F6B5-177A-4049-9899-0C6FD9AF753B",
+    "height": 2,
+    "width": 296,
+    "x": 0,
+    "y": 54
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1BCB945F-D0E1-40F4-9116-B2CCC8EBC9F6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6F3945B0-3975-4799-AD15-CED876A379E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11E41568-5775-4256-8797-348EDDB85DCD"
+    }
+  ],
+  "name": "BORDER BOTTOM",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F621B53-2077-409A-8753-BA273B53653F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

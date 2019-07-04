@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "b9ccf7a0-9e2f-11e9-96d8-dd3241d8dd2e",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "97993095-2E99-4CCD-9A4F-58C5C97349A3"
+    },
+    {
+      "class": "artboard",
+      "id": "499B8EEB-A8D6-4EFF-8F2F-122534A4EEFF"
+    },
+    {
+      "class": "artboard",
+      "id": "4002860B-8200-4EE6-BCBA-376908702028"
+    },
+    {
+      "class": "artboard",
+      "id": "E3DA5536-1364-4D25-9D2F-A384DA0E486C"
+    },
+    {
+      "class": "artboard",
+      "id": "02C7C943-4211-4C44-B280-0917980CA955"
+    },
+    {
+      "class": "artboard",
+      "id": "FD7983B4-8499-4E00-9779-92229AE0A10C"
+    },
+    {
+      "class": "artboard",
+      "id": "E0A2FC75-1E91-439F-9312-49F7A46A365D"
+    },
+    {
+      "class": "artboard",
+      "id": "DFCF3D26-85B1-4CF3-B71C-EE1395088A98"
+    },
+    {
+      "class": "artboard",
+      "id": "36AEEBAD-7BEC-483D-9D3C-54567382F5EF"
+    },
+    {
+      "class": "artboard",
+      "id": "A5FF6248-B323-45A8-8E9C-3C251BA94424"
+    },
+    {
+      "class": "artboard",
+      "id": "87B7A6DC-54F0-4CBC-B8EA-90116E995EBD"
+    },
+    {
+      "class": "artboard",
+      "id": "D0F42727-EE08-483F-AF1A-5DB01EF90AB3"
+    }
+  ],
+  "name": "300-Bezahlung",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
