@@ -38,6 +38,7 @@
   },
   "pages": [
     "300-Bezahlung",
+    "400-Einstellungen",
     "Symbols"
   ],
   "userInfo": {
